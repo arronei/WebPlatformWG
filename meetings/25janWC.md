@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
- <head>
-  <meta charset="utf-8">
-  <title>25 January 2016 Custom elements meeting</title>
- </head>
- <body>
   <h1>Custom elements meeting - <em>changed to 25 January 2016</em></h1>
 
   <p>This meeting is currently <em>proposed</em>, for the Bay Area (San Francisco / Silicon Valley). We are looking for a host (requirements: A room that can hold about 20 people, coffee/tea/snacks, somewhere we can have lunch, wifi).</p>
@@ -16,6 +9,7 @@
   <ul>
    <li>Chaals</li>
    <li>Domenic Denicola</li>
+   <li>Arron Eicholz</li>
    <li>Travis Leithead</li>
    <li>Elliott Sprehn</li>
   </ul>
@@ -25,7 +19,6 @@
    <li>Hayato Ito</li>
    <li>Anne van Kesteren (if this coincides with the service worker meeting)</li>
    <li>Ryosuke Niwa</li>
-   <li>Arron Eicholz</li>
    <li>Léonie Watson (coinciding with Service Worker meeting would be helpful)</li>
    <li>Daniel Buchner</li>
   </ul>
@@ -46,5 +39,3 @@
 
   <p>Please add your name, and agenda requests here by <a href="https://github.com/w3c/WebPlatformWG/blob/gh-pages/meetings/16janWC.md">editing a branch and making a Pull Request</a>, or by mail in the public-webapps mailing list - which will result in it being posted here - or to the chairs of the Web Platform group - in which case it won't be posted publicly.</p>
 
- </body>
-</html>
